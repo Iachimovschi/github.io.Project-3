@@ -1,0 +1,121 @@
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.logo {
+  height: 30px;
+  margin: 0 auto;
+  display: block;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  text-align: center;
+  margin: 0 auto;
+}
+
+header {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+restaurant-img {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.explore-restaurants {
+  text-align: center;
+}
+
+.explore-restaurants__info {
+  font-size: 24px;
+  font-weight: 100;
+  padding: 0 15px;
+}
+
+.restaurant-nav {
+  background-color: gainsboro;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.location {
+  background-color: #636060;
+  min-height: 50px;
+}
+
+.location .small-title {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.btn {
+  background-color: gainsboro;
+  cursor: pointer;
+  border-radius: 6rem;
+}
+
+.btn:hover {
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
+}
+
+.btn .btn1 .btn2 .btn3 {
+  font-size: 0,08rem;
+  cursor: pointer;
+  padding: 1rem 3rem;
+  border-radius: 3rem;
+}
+
+.btn .btn1:hover {
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
+}
+
+span.step {
+  background: #a32082;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.6em;
+}
+
+.column {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: gainsboro;
+}
+
+.about {
+  background-color: gainsboro;
+}
+
+.footer {
+  text-align: left;
+  background-color: darkgrey;
+}
+/*# sourceMappingURL=main.css.map */

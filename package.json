@@ -1,0 +1,17 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "ohmyfood",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass --watch ./css/main.scss:./css/style.css"
+
+  },
+  "keywords": [
+    "openclassroom",
+    "project",
+    "3"
+  ],
+  "author": "natalia",
+  "license": "ISC"
+}
